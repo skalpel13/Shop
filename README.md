@@ -3,4 +3,4 @@
 - HTML
 - CSS
 - React.js
-  Only desktop version!
+- Only desktop version!
